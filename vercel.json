@@ -1,0 +1,11 @@
+{
+    "functions": {
+        "public/*.php": {
+        "runtime": "vercel-php@0.7.3"
+    }
+  },
+    "require": {
+        "php": "^8.1",
+        "tracy/tracy": "^2.0"
+  }
+}
